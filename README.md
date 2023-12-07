@@ -22,7 +22,7 @@ Installed:
 First, you need to clone the repository from GitHub. Make sure you clone the correct branch (main). You can do this by running the following command in your terminal or command prompt:
 
 ```bash
-git clone -b main https://github.com/bob-fornal/talk--codemash-2024-workshop--react-unit-testing.git
+git clone -b walk-through https://github.com/bob-fornal/talk--codemash-2024-workshop--react-unit-testing.git
 ```
 
 #### 2. Install dependencies

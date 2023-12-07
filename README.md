@@ -49,7 +49,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Running tests
+## Walk-Through
+
+### Running tests
 
 To run tests, open a different terminal in the project directory and run the following command:
 
@@ -58,3 +60,15 @@ npm run test
 ```
 
 Press a to run all tests.
+
+### Testing Links
+
+### Testing Modals
+
+### Testing Forms
+
+### Testing: Mocking a Hook
+
+### Testing List Component
+
+### Testing Search Functionality

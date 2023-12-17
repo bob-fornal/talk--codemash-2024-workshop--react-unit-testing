@@ -20,7 +20,7 @@ Installed:
 
 Please clone the repository and install all dependencies. The instructions are below.
 
-**You will need to update this repository closer to the conference date, since it may change**.
+> **You will need to update this repository closer to the conference date, since it may change**.
 
 #### 1. Clone the repository
 

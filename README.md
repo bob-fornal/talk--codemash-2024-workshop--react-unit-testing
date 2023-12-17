@@ -12,10 +12,15 @@ Please follow the instructions below to set up your environment.
 
 Installed:
 
-* Node.js and npm (or yarn) installed on your computer. If you don't have them installed, please follow the instructions on the [official Node.js website](https://nodejs.org/en/download/).
-* Git installed (or GUI tool).
+* Node.js and npm (or yarn). If you don't have them installed, please follow the instructions on the [official Node.js website](https://nodejs.org/en/download/).
+* Git installed (or GUI tool). If you don't have it installed, please follow the instructions on the [GitHub Website](https://github.com/git-guides/install-git).
+* Any editor (I use VS Code). [VS Code Installation](https://code.visualstudio.com/download)
 
 ### Setup
+
+Please clone the repository and install all dependencies. The instructions are below.
+
+**You will need to update this repository closer to the conference date, since it may change**.
 
 #### 1. Clone the repository
 

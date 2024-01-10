@@ -1,0 +1,23 @@
+[
+  {
+    "key": "onboarding",
+    "description": "Customer Onboarding",
+    "tasks": [
+      "customer-interview",
+      "background-search--google",
+      "background-search--lexis-nexus",
+      "process-survey",
+      "management-approval"
+    ]
+  },
+  {
+    "key": "annual-review",
+    "description": "Annual Review",
+    "tasks": [
+      "background-search--google",
+      "background-search--lexis-nexus",
+      "order-check",
+      "management-approval"
+    ]
+  }
+]

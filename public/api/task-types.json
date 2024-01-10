@@ -1,0 +1,30 @@
+[
+  {
+    "key": "background-search--google",
+    "description": "Background Search (Google)"
+  },
+  {
+    "key": "background-search--lexis-nexus",
+    "description": "Background Search (Lexis Nexus)"
+  },
+  {
+    "key": "customer-interview",
+    "description": "Customer Interview"
+  },
+  {
+    "key": "management-approval",
+    "description": "Management Approval"
+  },
+  {
+    "key": "order-check",
+    "description": "Check for Previous Orders"
+  },
+  {
+    "key": "peer-review",
+    "description": "Peer Review"
+  },
+  {
+    "key": "process-survey",
+    "description": "Process Survey"
+  }
+]

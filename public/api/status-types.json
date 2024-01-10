@@ -1,0 +1,22 @@
+[
+  {
+    "key": "pending",
+    "description": "Pending"
+  },
+  {
+    "key": "in-progress",
+    "description": "In Progress"
+  },
+  {
+    "key": "in-review",
+    "description": "In Review"
+  },
+  {
+    "key": "approved",
+    "description": "Approved"
+  },
+  {
+    "key": "rejected",
+    "description": "Rejected"
+  }
+]

@@ -1,0 +1,14 @@
+.eventCard {
+  background-color: paleturquoise;
+  margin: 1em;
+}
+
+.taskCard {
+  background-color: silver;
+  margin: 1em;
+}
+
+.workNotesCard {
+  background-color: lightgoldenrodyellow;
+  margin: 1em;
+}

@@ -1,0 +1,24 @@
+
+.dashboardWrapper {
+  display: flex;
+  padding: 1em;
+}
+
+.filter {
+  width: 17vw;
+}
+.content {
+  background-color: #aaaaaa;
+  margin-left: 1em;
+  width: 80vw;
+}
+
+.filterCard {
+  background-color: palegreen;
+}
+
+.tools {
+  background-color: aliceblue;
+  margin-bottom: 1em;
+  padding: 0.5em;
+}
